@@ -4,20 +4,30 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a master's student in Software Engineering at the School of Software Technology, Zhejiang University. Previously, I completed my undergraduate studies in Software Engineering at the College of Software Engineering, Sichuan University.
+
+My research interests include multimodal learning, vision-language models, and parameter-efficient fine-tuning. I am particularly interested in how multimodal models use question-relevant visual evidence.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- Multimodal Learning
+- Vision-Language Models
+- Parameter-Efficient Fine-Tuning
+- Question-Relevant Visual Evidence
 
-## News
+## Education
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+### Zhejiang University
+School of Software Technology  
+Master's studies in Software Engineering  
+September 2025 - Present
 
-{% include_relative _includes/publications.md %}
+### Sichuan University
+College of Software Engineering  
+Undergraduate studies in Software Engineering  
+September 2021 - June 2025
 
-{% include_relative _includes/services.md %}
+## Contact
+
+Email: [22551210@zju.edu.cn](mailto:22551210@zju.edu.cn)  
+GitHub: [Davis-Chann](https://github.com/Davis-Chann)
