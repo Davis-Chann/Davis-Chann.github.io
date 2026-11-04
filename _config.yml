@@ -14,7 +14,7 @@ github_link: https://github.com/Davis-Chann
 
 # Images
 # Uncomment the following line after uploading your own photo.
-# avatar: ./assets/img/profile.jpg
+avatar: ./assets/img/profile.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
