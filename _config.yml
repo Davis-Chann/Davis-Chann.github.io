@@ -1,7 +1,7 @@
 # Basic Information
 title: Sihao Chen
 position: Master's Student
-affiliation: Zhejiang University
+affiliation: School of Software Technology, Zhejiang University
 email: "22551210@zju.edu.cn"
 
 # Search Engine Optimization
@@ -13,7 +13,7 @@ canonical: https://davis-chann.github.io/
 github_link: https://github.com/Davis-Chann
 
 # Images
-# 上传个人照片后，取消下一行的注释，并确认文件路径正确。
+# Uncomment the following line after uploading your own photo.
 # avatar: ./assets/img/profile.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
